@@ -16,7 +16,7 @@ Bachelor of Science, 2024
 
 Electrical and Computer Engineering
 
-[Carnegie Mellon University](ece.cmu.edu)
+[Carnegie Mellon University](https://ece.cmu.edu)
 ### Interests
  - Smart Home Automation
  - Internet of Things (IOT)
