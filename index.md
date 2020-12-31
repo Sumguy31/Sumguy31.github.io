@@ -24,4 +24,4 @@ Electrical and Computer Engineering
  - Robotics
  - Computer Vision
 ### Links
-{% include 'social.html' %}
+{% include 'includes_html/social.html' %}
