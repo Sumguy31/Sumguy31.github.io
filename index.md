@@ -24,4 +24,4 @@ Electrical and Computer Engineering
  - Robotics
  - Computer Vision
 ### Links
-{% include {{vendor/bundle/ruby/2.7.0/gems/minima-2.5.1/_includes/social.html}} %}
+{% include 'social.html' %}
