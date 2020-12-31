@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![mnguyenHeadshot](pictures/fullshot.jpg)
+![mnguyenHeadshot](pictures/headshot.jpg)
 ## Bio
 Michael Nguyen is an Electrical and Computer Engineering student at Carnegie Mellon Univesity interested in software and hardware research and development.
 He has experience in hobbyist electronics production, several coding languages, robotics, and space research.
