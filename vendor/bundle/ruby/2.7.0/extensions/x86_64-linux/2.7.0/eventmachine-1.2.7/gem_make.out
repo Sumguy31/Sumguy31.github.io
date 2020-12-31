@@ -1,0 +1,16 @@
+current directory: /media/mnguyen/Extra/CodeArchive/website/sumguy31.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20201231-47551-9wohw1.rb extconf.rb
+creating Makefile
+
+current directory: /media/mnguyen/Extra/CodeArchive/website/sumguy31.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /media/mnguyen/Extra/CodeArchive/website/sumguy31.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /media/mnguyen/Extra/CodeArchive/website/sumguy31.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20201231-47551-1tiiqvq
