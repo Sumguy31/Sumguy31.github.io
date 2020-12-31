@@ -23,5 +23,3 @@ Electrical and Computer Engineering
  - Astronomy
  - Robotics
  - Computer Vision
-### Links
-{% include 'includes-html/social.html' %}
