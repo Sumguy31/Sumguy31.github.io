@@ -3,6 +3,9 @@ layout: page
 title: CV
 permalink: /CV/
 ---
+h3{
+   margin: 0;
+}
 
 ### Research Assistant
 Cylab, Carnegie Mellon University - Pittsburgh, Pennsylvannia  
