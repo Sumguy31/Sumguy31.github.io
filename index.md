@@ -12,6 +12,7 @@ Michael Nguyen is an Electrical and Computer Engineering student at Carnegie Mel
 He has experience in hobbyist electronics production, several coding languages, robotics, and space research.
 
 He is currently looking for work in Summer 2021
+[See Resume](documents/mnguyen_resume.pdf)
 
 ### Education
 Bachelor of Science, 2024  
@@ -20,6 +21,7 @@ Electrical and Computer Engineering
 ### Interests
  - Smart Home Automation
  - Internet of Things (IOT)
+ - Embeded Systems
  - Computer Architecture and Computer Processors
  - Space Systems and Satellite Development
  - Astronomy
