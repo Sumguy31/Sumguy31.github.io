@@ -11,7 +11,7 @@ layout: home
 Michael Nguyen is an Electrical and Computer Engineering student at Carnegie Mellon Univesity interested in software and hardware research and development.
 He has experience in hobbyist electronics production, several coding languages, robotics, and space research.
 
-He is currently looking for work in Summer 2021
+He is currently looking for work in Summer 2021  
 [See Resume](documents/mnguyen_resume.pdf)
 
 ### Education
