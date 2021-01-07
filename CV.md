@@ -5,22 +5,23 @@ permalink: /CV/
 ---
 
 ## Research Assistant
-### Cylab, Carnegie Mellon University - Pittsburgh, Pennsylvannia
-#### August 2020 - Present
+Cylab, Carnegie Mellon University - Pittsburgh, Pennsylvannia
+August 2020 - Present
 [Cylab](https://cylab.cmu.edu)
 
 
 ## Crew Member
-### McDonald's Restaurant - Cumming, Georgia
-#### July 2020 - August 2020
+McDonald's Restaurant - Cumming, Georgia
+July 2020 - August 2020
 
 
 ## Robotics Instructor
-### Genius Hangout - Cumming Georgia
-#### November 2019 - May 2020
+Genius Hangout - Cumming Georgia
+November 2019 - May 2020
 [Genius Hangouts](https://geniushangout.com)
 
 
 ## Independent Research
-### South Forsyth High School - Cumming, Georgia
-#### August 2019 - January 2020
+South Forsyth High School - Cumming, Georgia
+August 2019 - January 2020
+[See full write up](404)
