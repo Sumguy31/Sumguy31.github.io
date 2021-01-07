@@ -24,6 +24,7 @@ Electrical and Computer Engineering
  - Astronomy
  - Robotics
  - Computer Vision
+
 ### Skills
  - Python
  - C Language
@@ -40,6 +41,7 @@ Electrical and Computer Engineering
  - Breadboards
  - CPR and AED
  - Scuba Diving
+
 ### Notable Awards
  - Eagle Scout
  - VEX Robotics State Champion (2020)
