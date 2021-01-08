@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="michael-nguyen-b12b41178"><a class="LI-simple-link" href='https://www.linkedin.com/in/michael-nguyen-b12b41178?trk=profile-badge'>Michael Nguyen</a></div>
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2>
