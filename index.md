@@ -32,3 +32,6 @@ Advanced Placement Capstone Diploma Recipient
  - Astronomy
  - Robotics
  - Computer Vision
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="michael-nguyen-b12b41178"><a class="LI-simple-link" href='https://www.linkedin.com/in/michael-nguyen-b12b41178?trk=profile-badge'>Michael Nguyen</a></div>
