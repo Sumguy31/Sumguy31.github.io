@@ -21,7 +21,7 @@ Courses I've taken at various institutions listed roughly in reverse chronologic
 
 ### Embry-Riddle Aeronautical University
  - Calculus and Analytical Geometry II
- - Calculus and Analytical Geomtery I
+ - Calculus and Analytical Geometry I
  - Intro to Computers and Applications
  - Physics I for Engineers
  - Explorations in Physics
