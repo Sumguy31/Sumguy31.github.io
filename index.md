@@ -19,6 +19,10 @@ Bachelor of Science, 2024
 Electrical and Computer Engineering  
 [Carnegie Mellon University](https://ece.cmu.edu)
 
+High School Diploma, 2020  
+Advanced Placement Capstone Diploma Recipient  
+[South Forsyth High School](https://forsyth.k12.ga.us/sfhs)  
+
 ### Interests
  - Smart Home Automation
  - Internet of Things (IOT)
