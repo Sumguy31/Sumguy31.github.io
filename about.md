@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-![mnguyenHeadshot](pictures/headshot.jpg)
-## Bio
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="michael-nguyen-b12b41178"><a class="LI-simple-link" href='https://www.linkedin.com/in/michael-nguyen-b12b41178?trk=profile-badge'>Michael Nguyen</a></div>
 Michael Nguyen is an Electrical and Computer Engineering student at Carnegie Mellon Univesity interested in software and hardware research and development.
 He has experience in hobbyist electronics production, several coding languages, robotics, and space research.
 
