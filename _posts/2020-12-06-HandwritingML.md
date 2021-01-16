@@ -4,7 +4,7 @@ title: "Handwriting Recognition Through Machine Learning"
 ---
 
 <!--more-->
-A machine learning model to recognize digits written by hand.
+A machine learning model to recognize digits written by hand. The model was trained using the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database)  
 [see project](/HandwritingML)
 <!--more-->
 This model was trained using a fairly naive algorithm and as such has some limitations:
