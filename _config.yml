@@ -35,6 +35,7 @@ header_pages:
   - about.md
   - CV.md
   - projects.md
+  - test.md
   - coursework.md
 
 excerpt_separator: <!--more-->
