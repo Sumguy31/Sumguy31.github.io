@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Projects
 permalink: /projects/
-list_title:
+list_title: Projects
 ---
