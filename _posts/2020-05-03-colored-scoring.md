@@ -4,7 +4,6 @@ title: "Optimal Scoring for the VEX IQ game \"Rise Above\" "
 ---
 
 The Game:
-
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wWHifxhOcuc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
@@ -18,6 +17,5 @@ To the VEXIQ coaches, I, unlike many of you, am not a professional teacher. But 
 <!--more-->
 Entertain for a moment a bored high school senior. Upon hearing the prompt of this year’s game, my first question was “What color configuration scores the most points while traveling the least distances?” This might seem trivial at first (I certainly thought it was), but is actually a pretty interesting problem.
 <!--more-->
-
-[See full write up](https://github.com/Sumguy31/ColoredScoring/blob/master/README.md)
+[See full write up](https://github.com/Sumguy31/ColoredScoring/blob/master/README.md)  
 :octocat:[Repository](https://github.com/Sumguy31/ColoredScoring)
