@@ -34,8 +34,8 @@ show_excerpts: true
 header_pages:
   - about.md
   - CV.md
-  - coursework.md
   - projects.md
+  - coursework.md
 
 excerpt_separator: <!--more-->
 # Exclude from processing.
