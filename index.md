@@ -13,7 +13,7 @@ He has experience in hobbyist electronics production, several coding languages, 
 
 He is currently looking for work in Summer 2021  
 [See Resume](documents/mnguyen_resume.pdf)
-#### Contact
+### Contact
 Email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)  
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
@@ -21,7 +21,7 @@ Email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)
 
 
 
-### Education
+## Education
 Bachelor of Science, 2024  
 Electrical and Computer Engineering  
 [Carnegie Mellon University](https://ece.cmu.edu)
@@ -30,7 +30,7 @@ High School Diploma, 2020
 Advanced Placement Capstone Diploma Recipient  
 [South Forsyth High School](https://forsyth.k12.ga.us/sfhs)  
 
-### Interests
+## Interests
  - Embeded Systems
  - Computer Architecture and Computer Processors
  - Computer Vision
