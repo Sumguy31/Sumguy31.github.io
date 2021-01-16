@@ -39,3 +39,4 @@ Advanced Placement Capstone Diploma Recipient
  - Robotics
  - Space Systems and Satellite Development
  - Astronomy
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
