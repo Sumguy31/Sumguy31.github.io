@@ -39,5 +39,3 @@ Advanced Placement Capstone Diploma Recipient
  - Robotics
  - Space Systems and Satellite Development
  - Astronomy
-
-<hr style="border:2px solid gray"> </hr>
