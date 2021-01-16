@@ -4,7 +4,6 @@
 
 list_title: Projects
 layout: home
-title: Home
 
 ---
 ![mnguyenHeadshot](pictures/headshot.jpg)
