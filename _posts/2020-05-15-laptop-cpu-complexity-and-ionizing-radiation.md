@@ -2,8 +2,6 @@
 layout: post
 title: "Laptop CPU Complexity and its Influence on Vulnerability to Ionizing Radiation in Near-Earth Orbit"
 ---
-
-<!--more-->
 In my senior year of high school I was able to complete a independent original research project which contributed to the field of my choice. Here I chose to follow my love of electronics and space to try to make a contribution to the field of human space-flight.
 #### Awards
  - First prize @ Northwest Georgia Science Fair
