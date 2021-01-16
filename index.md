@@ -40,4 +40,4 @@ Advanced Placement Capstone Diploma Recipient
  - Space Systems and Satellite Development
  - Astronomy
 
-***
+<hr style="border:2px solid gray"> </hr>
