@@ -18,6 +18,7 @@ He is currently looking for work in Summer 2021
 :octocat: Github: [Sumguy31](https://github.com/sumguy31)  
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="michael-m-nguyen"><a class="LI-simple-link" href='https://www.linkedin.com/in/michael-m-nguyen?trk=profile-badge'>:link: LinkedIn Profile</a></div>
 
+<br>
 ## Education
 Bachelor of Science, 2024  
 Electrical and Computer Engineering  
