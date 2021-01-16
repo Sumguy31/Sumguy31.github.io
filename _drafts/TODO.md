@@ -1,6 +1,6 @@
 TODO:
- - NASA Internship
- - Colored Scoring
- - Robotics
- - Robotics
- - Research Paper
+ [] NASA Internship
+ [x] Colored Scoring
+ [] Robotics
+ [] Robotics
+ [x] Research Paper
