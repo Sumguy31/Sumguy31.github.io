@@ -49,6 +49,6 @@ Advanced Placement Capstone Diploma Recipient
 ### Notable Awards
  - Eagle Scout
  - VEX Robotics State Champion (2020)
- - 4th Place Technology Division (VEX 2020 World Championship)
+ - 4th Place Technology Division (VEX 2019 World Championship)
  - 1st Place Software Development (GA Technology Student Association 2018)
  - 1st Place Electrical Applications (GA Technology Student Association 2019)
