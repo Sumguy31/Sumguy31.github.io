@@ -4,7 +4,7 @@ title: "VEX Robotics: Tower Takeover"
 ---
 Robot created for the VEX Robotics Competition (VRC) game "Tower Takeover" as part of team 1961X out of South Forsyth High School  
 Won 2020 Georgia State Championship  
-:octocat: [see the repository](https://github.com/Sumguy31/TowerTakeover_1961X_V3)  
+:octocat: [see repository](https://github.com/Sumguy31/TowerTakeover_1961X_V3)  
 
 
 Unfortunately the season ended early as a result of the Coronavirus Pandemic and we were not able to attend the world championship or film a reveal for the robot.
