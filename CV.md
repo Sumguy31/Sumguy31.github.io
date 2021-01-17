@@ -6,7 +6,7 @@ permalink: /CV/
 **Research Assistant**  
 Cylab, Carnegie Mellon University - Pittsburgh, Pennsylvannia  
 August 2020 - Present  
-[Cylab](https://cylab.cmu.edu)
+[Cylab](https://cylab.cmu.edu)  
 [See Project (WIP)](/PittsburghModel)
 
 
