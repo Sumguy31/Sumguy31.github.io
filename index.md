@@ -12,7 +12,7 @@ Michael Nguyen is an Electrical and Computer Engineering student at Carnegie Mel
 He has experience in hobbyist electronics production, several coding languages, robotics, and space research.
 
 He is currently looking for work in Summer 2021  
-[See Resume](documents/mnguyen_resume.pdf){:target="_blank"}  
+:page_facing_up:[Resume](documents/mnguyen_resume.pdf){:target="_blank"}  
 ### Contact
 :e-mail: Email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)  
 :octocat: Github: [Sumguy31](https://github.com/sumguy31){:target="_blank"}  
