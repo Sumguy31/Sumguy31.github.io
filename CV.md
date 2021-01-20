@@ -7,7 +7,7 @@ permalink: /CV/
 Cylab, Carnegie Mellon University - Pittsburgh, Pennsylvannia  
 August 2020 - Present  
 [Cylab](https://cylab.cmu.edu){:target="_blank"}  
-[See Project (WIP)](/PittsburghModel)
+[See Project (WIP)](/PittsburghModel){:target="_blank"}
 
 
 **Crew Member**  
