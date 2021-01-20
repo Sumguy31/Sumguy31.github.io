@@ -31,4 +31,4 @@ August 2019 - January 2020
 Center for Space Research at UT Austin - Austin, Texas  
 June 2019 - July 2019  
 [SEES Intern Program](http://www.tsgc.utexas.edu/sees-internship/){:target="_blank"}   
-[See full write up](https://mnguyen.studio/2019/06/01/nasa-internship.html)
+[full write up](https://mnguyen.studio/2019/06/01/nasa-internship.html)
