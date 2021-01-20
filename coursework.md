@@ -11,13 +11,13 @@ Courses I've taken at various institutions listed roughly in reverse chronologic
  - [70-100 Global Business](http://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/#coursestextcontainer){:target="_blank"}
  - 99-353 CAD Laser Cutting
  - [18-100 Intro to Electrical And Computer Engineering](https://courses.ece.cmu.edu/18100){:target="_blank"}
- - [15-122 Principles of Imperative Computation](https://http://www.cs.cmu.edu/~15122/){:target="_blank"}
+ - [15-122 Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/){:target="_blank"}
  - [21-127 Concepts of Mathematics](http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/#coursestextcontainer){:target="_blank"}
  - 76-101 Interpretation and Argument
 
 ### Georgia Institute of Technology
- - [Math 2551 Multivariable Calculus](https://math.gatech.edu/courses/math/2551)
- - [Math 1554 Linear Algebra](https://math.gatech.edu/courses/math/1554)
+ - [Math 2551 Multivariable Calculus](https://math.gatech.edu/courses/math/2551){:target="_blank"}
+ - [Math 1554 Linear Algebra](https://math.gatech.edu/courses/math/1554){:target="_blank"}
 
 ### Embry-Riddle Aeronautical University
  - Calculus and Analytical Geometry II
