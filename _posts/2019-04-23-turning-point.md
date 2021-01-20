@@ -4,7 +4,7 @@ title: "VEX Robotics: Turning Point"
 ---
 Robot created for the VEX Robotics Competition (VRC) game "Turning Point" as part of Team 1961X out of South Forsyth High School  
 Won placed 4th in the Technology Division at the 2019 World Championship  
-:octocat: [see repository](https://github.com/Sumguy31/Turning_Point_V4)  
+:octocat: [repository](https://github.com/Sumguy31/Turning_Point_V4){:target="_blank"}  
 <br>
 See the Robot:
 <figure class="video_container">

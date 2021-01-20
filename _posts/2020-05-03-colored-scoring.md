@@ -8,8 +8,8 @@ To the VEXIQ coaches, I, unlike many of you, am not a professional teacher. But 
 
 Entertain for a moment a bored high school senior. Upon hearing the prompt of this year’s game, my first question was “What color configuration scores the most points while traveling the least distances?” This might seem trivial at first (I certainly thought it was), but is actually a pretty interesting problem.  
 
-:octocat:[see repository](https://github.com/Sumguy31/ColoredScoring)  
-[See full write up](https://github.com/Sumguy31/ColoredScoring/blob/master/README.md)  
+:octocat:[repository](https://github.com/Sumguy31/ColoredScoring){:target="_blank"}  
+:page_facing_up:[full write up](https://github.com/Sumguy31/ColoredScoring/blob/master/README.md){:target="_blank"}   
 <!--more-->
 
 
