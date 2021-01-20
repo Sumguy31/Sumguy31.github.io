@@ -8,7 +8,7 @@ In my senior year of high school I was able to complete a independent original r
  - Airforce Achievement award @ Georgia Science and Engineering Fair.
 
 
-:page_facing_up:[full paper](/documents/laptop_cpu_complexity_and_ionizing_radiation.pdf){:target:"_blank"}  
+:page_facing_up:[full paper](/documents/laptop_cpu_complexity_and_ionizing_radiation.pdf){:target="_blank"}  
 <!--more-->
 
 ### Abstract
