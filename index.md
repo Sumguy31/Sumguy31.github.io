@@ -12,21 +12,21 @@ Michael Nguyen is an Electrical and Computer Engineering student at Carnegie Mel
 He has experience in hobbyist electronics production, several coding languages, robotics, and space research.
 
 He is currently looking for work in Summer 2021  
-[See Resume](documents/mnguyen_resume.pdf)
+[See Resume](documents/mnguyen_resume.pdf){:target="_blank"}  
 ### Contact
 :e-mail: Email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)  
-:octocat: Github: [Sumguy31](https://github.com/sumguy31)  
+:octocat: Github: [Sumguy31](https://github.com/sumguy31){:target="_blank"}  
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="michael-m-nguyen"><a class="LI-simple-link" href='https://www.linkedin.com/in/michael-m-nguyen?trk=profile-badge'>:link: LinkedIn Profile</a></div>
 
 <br>
 ## Education
 Bachelor of Science, 2024  
 Electrical and Computer Engineering  
-[Carnegie Mellon University](https://ece.cmu.edu)
+[Carnegie Mellon University](https://ece.cmu.edu){:target="_blank"}
 
 High School Diploma, 2020  
 Advanced Placement Capstone Diploma Recipient  
-[South Forsyth High School](https://forsyth.k12.ga.us/sfhs)  
+[South Forsyth High School](https://forsyth.k12.ga.us/sfhs){:target="_blank"}  
 
 ## Interests
  - Embeded Systems

@@ -9,15 +9,15 @@ He has experience in hobbyist electronics production, several coding languages, 
 
 He is currently looking for work in Summer 2021
 
-[Resume](documents/mnguyen_resume.pdf)
+[Resume](documents/mnguyen_resume.pdf){:target="_blank"}
 ### Education
 Bachelor of Science, 2024  
 Electrical and Computer Engineering  
-[Carnegie Mellon University](https://ece.cmu.edu)
+[Carnegie Mellon University](https://ece.cmu.edu){:target="_blank"}  
 
 High School Diploma, 2020  
 Advanced Placement Capstone Diploma Recipient  
-[South Forsyth High School](https://forsyth.k12.ga.us/sfhs)  
+[South Forsyth High School](https://forsyth.k12.ga.us/sfhs){:target="_blank"}  
 
 ### Interests
  - Smart Home Automation
