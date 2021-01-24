@@ -19,16 +19,6 @@ High School Diploma, 2020
 Advanced Placement Capstone Diploma Recipient  
 [South Forsyth High School](https://forsyth.k12.ga.us/sfhs){:target="_blank"}  
 
-### Interests
- - Smart Home Automation
- - Internet of Things (IOT)
- - Embeded Systems
- - Computer Architecture and Computer Processors
- - Space Systems and Satellite Development
- - Astronomy
- - Robotics
- - Computer Vision
-
 ### Skills
  - Python
  - C Language
