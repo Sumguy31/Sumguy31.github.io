@@ -6,7 +6,7 @@ permalink: /coursework/
 Courses I've taken at various institutions listed roughly in reverse chronological order
 ### Carnegie Mellon University
  - [16-385 Computer Vision](http://16385.courses.cs.cmu.edu/fall2020/courseinfo){:target="_blank"}
- - [60-223 Physical Computing](https://courses.ideate.cmu.edu/60-223){:target="_blank"}
+ - [18-240 Structure and Design of Digital Systems](https://courses.ece.cmu.edu/18-240){:target="_blank"}
  - [24-101 Fundamentals of Mechanical Engineering](https://www.meche.engineering.cmu.edu/education/courses/24-101.html){:target="_blank"}
  - [70-100 Global Business](http://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/#coursestextcontainer){:target="_blank"}
  - 99-353 CAD Laser Cutting
