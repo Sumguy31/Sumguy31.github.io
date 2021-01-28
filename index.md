@@ -32,5 +32,5 @@ He is currently looking for work in Summer 2021
 
 <br>
 
-<iframe src="https://discord.com/widget?id=804169371030126634&theme=dark" width="330" height="330" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>  
+<iframe src="https://discord.com/widget?id=804169371030126634&theme=dark" width="330" height="186" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>  
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
