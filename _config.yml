@@ -29,6 +29,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-sitemap
 show_excerpts: true
 
 header_pages:
