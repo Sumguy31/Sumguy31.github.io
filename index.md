@@ -28,9 +28,9 @@ He is currently looking for work in Summer 2021
  - Astronomy
  
 ## Social Media
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="michael-m-nguyen"><a class="LI-simple-link" href='https://www.linkedin.com/in/michael-m-nguyen?trk=profile-badge'>Michael Nguyen</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="michael-m-nguyen"><a class="LI-simple-link" href='https://www.linkedin.com/in/michael-m-nguyen?trk=profile-badge'>LinkedIn</a></div>
 
-</br>
+<br>
 
 <iframe src="https://discord.com/widget?id=804169371030126634&theme=dark" width="330" height="330" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>  
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
