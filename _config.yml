@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-sitemap
+  - jekyll-seo-tag
 show_excerpts: true
 
 header_pages:
