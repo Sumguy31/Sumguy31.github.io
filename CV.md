@@ -5,7 +5,7 @@ permalink: /CV/
 ---
 **Teaching Assistant**  
 ECE Dept, Carnegie Mellon University - Pittsburgh, Pennsylvannia  
-January 2020 - May 2020  
+January 2021 - May 2021  
 [18100 Intro to ECE](https://courses.ece.cmu.edu/18100){:target="_blank"}
 
 
