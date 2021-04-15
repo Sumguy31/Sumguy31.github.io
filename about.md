@@ -11,7 +11,7 @@ He is currently looking for work in Summer 2021
 
 [Resume](documents/mnguyen_resume.pdf){:target="_blank"}
 ### Education
-Bachelor of Science, 2024  
+Bachelor of Science, 2023  
 Electrical and Computer Engineering  
 [Carnegie Mellon University](https://ece.cmu.edu){:target="_blank"}  
 
