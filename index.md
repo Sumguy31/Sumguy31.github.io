@@ -8,10 +8,10 @@ layout: home
 ---
 ![mnguyenHeadshot](pictures/headshot.jpg)
 ## Bio
-Michael Nguyen is an Electrical and Computer Engineering student at Carnegie Mellon Univesity interested in software and hardware research and development.
+Michael Nguyen is an Electrical and Computer Engineering student at Carnegie Mellon Univesity interested in hardware development.
 He has experience in hobbyist electronics production, several coding languages, robotics, and space research.
 
-He is currently looking for work in Summer 2021  
+He is currently looking for work in Summer 2022  
 :page_facing_up:[Resume](documents/mnguyen_resume.pdf){:target="_blank"}  
 ### Contact
 :e-mail: Email: [mnguyen2@andrew.cmu.edu](mailto:mnguyen2@andrew.cmu.edu)  
@@ -21,7 +21,6 @@ He is currently looking for work in Summer 2021
  - Embeded Systems
  - Computer Architecture and Computer Processors
  - Computer Vision
- - Smart Home Automation
  - Internet of Things (IOT)
  - Robotics
  - Space Systems and Satellite Development
